@@ -1,0 +1,6 @@
+[2026-09-01 10:01:19] [HIGH] Brute Force Attack - Multiple failed login attempts (5) detected from IP: 192.168.1.10 (ID: 94014c7c-8bcc-4802-8676-f68df340cac6)
+[2026-09-01 10:02:20] [CRITICAL] SQL Injection Attempt - Suspicious SQL keyword 'DROP' found in query from IP: 192.168.1.12 (ID: dc59b41e-fc44-48e4-bcbb-452e4398eeaa)
+[2026-09-01 10:02:25] [CRITICAL] SQL Injection Attempt - Suspicious SQL keyword 'SELECT' found in query from IP: 192.168.1.12 (ID: 92ce76b4-f8a7-4e42-bd65-5a2d0ca0ae34)
+[2026-09-01 10:03:00] [MEDIUM] Blacklisted IP Detected - Activity detected from blacklisted IP: 10.0.0.5 (ID: f5fffc96-e45f-4714-8435-02a1beb6c51b)
+[2026-09-01 10:03:01] [MEDIUM] Blacklisted IP Detected - Activity detected from blacklisted IP: 10.0.0.5 (ID: c9dd3a29-ef5c-4a7b-992b-33f8f491cb4e)
+[2026-09-01 10:03:06] [HIGH] Possible DoS Attack - Possible DoS Attack! Excessive requests (10) from IP: 10.0.0.22 (ID: fac33671-13b6-4bda-a2cd-4134953ed54e)

@@ -1,0 +1,26 @@
+# Target build output directory
+target/
+*.class
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Log files
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files generated during local execution (optional to ignore or keep)
+# alerts.txt
+# incident_report.txt
