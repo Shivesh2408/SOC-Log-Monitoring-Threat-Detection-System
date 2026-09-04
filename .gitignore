@@ -1,6 +1,5 @@
 # Target build output directory
 target/
-**/target/
 *.class
 
 # IDE and Editor files
@@ -13,9 +12,12 @@ target/
 .classpath
 .settings/
 
-# Log files
+# Log files and generated text outputs
 *.log
 logs/
+alerts.txt
+incident_report.txt
+logs.txt
 
 # OS generated files
 .DS_Store

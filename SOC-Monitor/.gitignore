@@ -12,15 +12,14 @@ target/
 .classpath
 .settings/
 
-# Log files
+# Log files and generated text outputs
 *.log
 logs/
+alerts.txt
+incident_report.txt
+logs.txt
 
 # OS generated files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Output files generated during local execution (optional to ignore or keep)
-# alerts.txt
-# incident_report.txt
